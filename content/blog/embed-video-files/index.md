@@ -7,7 +7,7 @@ socialShare: true
 toc: false
 ---
 
-[IFR-Medical Robots and SDG Bridging Global Surgical Care Gaps](https://github.com/schnerring/hugo-theme-gruvbox/blob/main/layouts/shortcodes/video.html)
+[IFR-Medical Robots and SDG Bridging Global Surgical Care Gaps](https://www.youtube.com/watch?v=-O-3RNo95Fo&t=1s)
 
 {{< video src="my-video" autoplay="true" controls="false" loop="true" >}}
 
