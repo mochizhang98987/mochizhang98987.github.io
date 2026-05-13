@@ -1,6 +1,6 @@
-baseURL = "https://momo98987.github.io/"
-copyright = "Copyright © 2021"
-title = "All about me"
+baseURL = "https://mochizhang98987.github.io/"
+copyright = "Copyright © Mochi Zhang"
+title = "Mochi Zhang"
 #paginate = 10
 enableRobotsTXT = true
 # Enable to calculate the last modified date from Git history and show it in the post header
@@ -45,9 +45,9 @@ enableRobotsTXT = true
   #themeColor = "blue"
   # soft medium hard, defaults to medium
   #themeContrast = "medium"
-  author = "Michael Schnerring"
-  subtitle = "Theme Demo"
-  description = "A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes."
+  author = "Mochi Zhang"
+  subtitle = "Personal Portfolio"
+  description = "Personal portfolio of Mochi Zhang, featuring robotics, computer vision, and engineering projects."
 
   [params.logo]
     text = "Mochi Zhang"

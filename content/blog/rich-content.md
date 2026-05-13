@@ -2,35 +2,12 @@
 author : "Team from TGU in China"
 title : "Digital Twin-Driven Rolling Bearing Condition Monitoring and Fault Diagnosis System"
 date : "2023-04-07"
-description : "During my participation in the Digital Twin-Driven Rolling Bearing Condition Monitoring and Fault Diagnosis System project, I was fully involved in the entire process from technical solution design to system implementation and testing. Focusing on the pain points of rolling bearing operation and maintenance, the project integrates digital twin, deep learning and other technologies to build an intelligent system featuring virtual-real interaction and accurate diagnosis. It aims to solve problems such as low efficiency of traditional regular maintenance and difficulty in fault identification under complex working conditions, and promote the digital upgrading of the equipment manufacturing industry. The details are elaborated from two aspects: core functions and target tasks."
-tags : [
-    "shortcodes",
-    "privacy",
-    "hugo-basic-example",
-]
-src: ./alexandre-van-thuan-mr9FouttLGY-unsplash.jpg
+description : "A digital twin-driven fault diagnosis system for rolling bearing condition monitoring, integrating virtual-real interaction, deep learning, and intelligent maintenance analysis."
+comments: false
+socialShare: false
+toc: false
 ---
 
-Hugo ships with several [Embedded Shortcodes](https://gohugo.io/content-management/shortcodes/#embedded) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
-<!--more-->
----
+During my participation in the Digital Twin-Driven Rolling Bearing Condition Monitoring and Fault Diagnosis System project, I was involved in technical solution design, system implementation, and testing.
 
-## YouTube Privacy Enhanced Shortcode
-
-{{< youtube ZJthWmvUzzc >}}
-
-<br>
-
----
-
-## X Simple Shortcode
-
-{{< x user="DesignReviewed" id="1085870671291310081" >}}
-
-<br>
-
----
-
-## Vimeo Simple Shortcode
-
-{{< vimeo_simple 48912912 >}}
+The project focused on rolling bearing operation and maintenance. By combining digital twin technology and deep learning methods, it aimed to improve fault identification accuracy and reduce the inefficiency of traditional scheduled maintenance.
