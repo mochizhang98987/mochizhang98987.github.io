@@ -1,30 +1,34 @@
-{{ range $pageIndex, $page := .Pages }}
-  {{ $plainTitlePages := slice
-    "ILight Holographic Perception Smart Transportation Project"
-    "Digital Twin-Driven Rolling Bearing Condition Monitoring and Fault Diagnosis System"
-    "Multi-Functional Smart Street Light Project Based on IoT Perception Network"
-    "Backend & Data Practice: Solidifying the Technical Foundation"
-  }}
-  <article class="post">
-    <div class="post-header">
-      <h2>
-        {{ if in $plainTitlePages .Title }}
-          <span>{{ .Title | markdownify }}</span>
-        {{ else }}
-          <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-        {{ end }}
-      </h2>
-      {{ partial "post-meta.html" (dict "page" . "pageIndex" $pageIndex) }}
-    </div>
+{{ $hiddenDemoTitles := slice "Math Typesetting" "Emoji Support" }}
+{{ $plainTitlePages := slice
+  "ILight Holographic Perception Smart Transportation Project"
+  "Digital Twin-Driven Rolling Bearing Condition Monitoring and Fault Diagnosis System"
+  "Multi-Functional Smart Street Light Project Based on IoT Perception Network"
+  "Backend & Data Practice: Solidifying the Technical Foundation"
+}}
 
-    <div class="post-content">
-      {{ with .Description }}
-        {{ . }}
-      {{ else }}
-        {{ .Summary }}
-      {{ end }}
-    </div>
-  </article>
+{{ range $pageIndex, $page := .Pages }}
+  {{ if not (in $hiddenDemoTitles .Title) }}
+    <article class="post">
+      <div class="post-header">
+        <h2>
+          {{ if in $plainTitlePages .Title }}
+            <span>{{ .Title | markdownify }}</span>
+          {{ else }}
+            <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+          {{ end }}
+        </h2>
+        {{ partial "post-meta.html" (dict "page" . "pageIndex" $pageIndex) }}
+      </div>
+
+      <div class="post-content">
+        {{ with .Description }}
+          {{ . }}
+        {{ else }}
+          {{ .Summary }}
+        {{ end }}
+      </div>
+    </article>
+  {{ end }}
 {{ end }}
 
 {{ partial "pagination.html" . }}

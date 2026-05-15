@@ -1,6 +1,12 @@
 baseURL = "https://mochizhang98987.github.io/"
 copyright = "Copyright © Mochi Zhang"
 title = "Mochi Zhang"
+# Ignore leftover demo posts if they still exist in a local clone after ZIP overwrite.
+ignoreFiles = [
+  "content/blog/math-typesetting\\.md$",
+  "content/blog/emoji-support\\.md$",
+  "content/blog/hugo-basic-example.*",
+]
 #paginate = 10
 enableRobotsTXT = true
 # Enable to calculate the last modified date from Git history and show it in the post header

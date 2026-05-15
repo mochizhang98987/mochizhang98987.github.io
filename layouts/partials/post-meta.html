@@ -1,3 +1,4 @@
+{{ if not .page.Params.hideMeta }}
 <div class="post-meta">
   {{- with .page.Date -}}
     <span>{{ .Format "2006-01-02" }}</span>
@@ -19,3 +20,4 @@
     {{ partial "image.html" (dict "src" .page.Params.cover.src "alt" .page.Params.cover.alt "caption" .page.Params.cover.caption "page" .page "lazy" $lazy) }}
   {{ end }}
 </div>
+{{ end }}

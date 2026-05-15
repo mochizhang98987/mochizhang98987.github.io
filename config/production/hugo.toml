@@ -1,1 +1,7 @@
 baseURL = "https://mochizhang98987.github.io/"
+# Ignore leftover demo posts if they still exist in a local clone after ZIP overwrite.
+ignoreFiles = [
+  "content/blog/math-typesetting\\.md$",
+  "content/blog/emoji-support\\.md$",
+  "content/blog/hugo-basic-example.*",
+]
