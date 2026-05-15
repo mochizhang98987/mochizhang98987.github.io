@@ -13,4 +13,4 @@ toc: false
 
 [Defining the Trust Region of the RPLIDAR A2M12](https://youtu.be/XLcUK_zythQ)
 
-[![Defining the Trust Region of the RPLIDAR A2M12 thumbnail](rplidar-trust-region-thumbnail.jpg)](https://youtu.be/XLcUK_zythQ)
+[![Defining the Trust Region of the RPLIDAR A2M12 thumbnail](rplidar-trust-region-thumbnail.png)](https://youtu.be/XLcUK_zythQ)

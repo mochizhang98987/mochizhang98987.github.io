@@ -1,6 +1,8 @@
 ---
 title : "ILight Holographic Perception Smart Transportation Project"
 hideMeta: true
+pdfLink: "/pdfs/5.pdf"
+previewImage: "/images/projects/5.png"
 description : "During my participation in the ILight Holographic Perception Smart Transportation Project, I was deeply involved in the entire process from technology R&D to practical implementation. With the core goal of solving urban traffic pain points and building a new smart transportation ecosystem, the project integrates cutting-edge technologies to create a cloud-edge-end collaborative smart transportation solution."
 comments: false
 socialShare: false

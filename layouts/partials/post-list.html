@@ -12,9 +12,9 @@
           <a href="{{ $targetLink | relURL }}" target="_blank" rel="noopener">{{ .Title | markdownify }}</a>
         </h2>
         {{ with .Params.previewImage }}
-          <a class="project-preview-link" href="{{ $targetLink | relURL }}" target="_blank" rel="noopener" aria-label="Open {{ $page.Title }} PDF">
+          <div class="project-preview-block">
             <img class="project-preview-image" src="{{ . | relURL }}" alt="{{ $page.Title }} preview image">
-          </a>
+          </div>
         {{ end }}
         {{ partial "post-meta.html" (dict "page" . "pageIndex" $pageIndex) }}
       </div>

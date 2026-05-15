@@ -2,8 +2,8 @@
 author : "ZHIHUI SHULIAN"
 title : "Multi-Functional Smart Street Light Project Based on IoT Perception Network"
 date : "2023-06-09"
-pdfLink: "/pdfs/4.pdf"
-previewImage: "/images/projects/4.jpg"
+pdfLink: "/pdfs/2.pdf"
+previewImage: "/images/projects/2.png"
 description : "An IoT-based smart street light project integrating environmental sensing, traffic monitoring, data visualisation, and smart city management functions."
 comments: false
 socialShare: false
