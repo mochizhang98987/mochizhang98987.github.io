@@ -1,13 +1,10 @@
 ---
-title: "Video Demonstrations"
+title: "Videos"
 date: "2025-10-24T01:16:18+02:00"
 draft: false
 comments: false
 socialShare: false
 toc: false
-pdfLink: "/pdfs/1.pdf"
-previewImage: "/images/projects/1.jpg"
-description: "Selected video demonstrations showing my communication, robotics, and perception-related project work."
 ---
 
 [IFR-Medical Robots and SDG Bridging Global Surgical Care Gaps](https://www.youtube.com/watch?v=-O-3RNo95Fo&t=1s)
