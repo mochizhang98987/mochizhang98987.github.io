@@ -22,10 +22,24 @@
       </div>
 
       <div class="post-content">
-        {{ with .Description }}
-          {{ . | markdownify }}
+        {{ if or .Params.goal .Params.contribution .Params.outcome }}
+          <div class="project-structured-description">
+            {{ with .Params.goal }}
+              <p><strong>Goal:</strong> {{ . }}</p>
+            {{ end }}
+            {{ with .Params.contribution }}
+              <p><strong>My Contribution:</strong> {{ . }}</p>
+            {{ end }}
+            {{ with .Params.outcome }}
+              <p><strong>Outcome:</strong> {{ . }}</p>
+            {{ end }}
+          </div>
         {{ else }}
-          {{ .Summary }}
+          {{ with .Description }}
+            {{ . | markdownify }}
+          {{ else }}
+            {{ .Summary }}
+          {{ end }}
         {{ end }}
       </div>
     </article>

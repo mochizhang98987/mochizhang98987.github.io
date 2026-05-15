@@ -113,3 +113,33 @@ h6:hover {
 .project-preview-image {
   aspect-ratio: 16 / 9;
 }
+
+.portfolio-category-card {
+  padding-top: 1.6rem;
+  padding-bottom: 1.2rem;
+}
+
+.portfolio-category-card h2 {
+  display: inline-block;
+  color: var(--primary-alt);
+  margin-bottom: 0.4rem;
+}
+
+.portfolio-category-card__intro {
+  color: var(--fg3);
+  margin-top: 0.4rem;
+}
+
+.project-structured-description {
+  max-width: 860px;
+  text-align: left;
+}
+
+.project-structured-description p {
+  margin: 0.55rem 0;
+  line-height: 1.55;
+}
+
+.project-structured-description strong {
+  color: var(--primary-alt);
+}

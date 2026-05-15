@@ -11,8 +11,6 @@
   {{ $videos := where $pages ".Params.portfolioGroup" "videos" }}
   {{ if gt (len $videos) 0 }}
     <section class="portfolio-section" id="videos">
-      <h2 class="portfolio-section__title">Videos</h2>
-      <p class="portfolio-section__intro">Selected video demonstrations and technical presentations.</p>
       {{ partial "post-list.html" (dict "Pages" ($videos.ByWeight)) }}
     </section>
   {{ end }}
@@ -20,8 +18,7 @@
   {{ $competitions := where $pages ".Params.portfolioGroup" "competitions" }}
   {{ if gt (len $competitions) 0 }}
     <section class="portfolio-section" id="competitions">
-      <h2 class="portfolio-section__title">Competitions</h2>
-      <p class="portfolio-section__intro">Competition-oriented engineering work completed with clear goals, leadership, and project outcomes.</p>
+      {{ partial "portfolio-section-heading.html" (dict "Title" "Competitions" "Intro" "Competition-oriented engineering work completed with clear goals, leadership, and project outcomes.") }}
       {{ partial "post-list.html" (dict "Pages" ($competitions.ByWeight)) }}
     </section>
   {{ end }}
@@ -29,8 +26,7 @@
   {{ $projects := where $pages ".Params.portfolioGroup" "projects" }}
   {{ if gt (len $projects) 0 }}
     <section class="portfolio-section" id="projects">
-      <h2 class="portfolio-section__title">Projects</h2>
-      <p class="portfolio-section__intro">Technical projects and practice work that strengthened my software, data, and system-integration skills.</p>
+      {{ partial "portfolio-section-heading.html" (dict "Title" "Projects" "Intro" "Technical projects and practice work that strengthened my software, data, and system-integration skills.") }}
       {{ partial "post-list.html" (dict "Pages" ($projects.ByWeight)) }}
     </section>
   {{ end }}

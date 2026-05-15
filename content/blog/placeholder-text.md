@@ -7,6 +7,9 @@ portfolioGroup: "competitions"
 weight: 3
 pdfLink: "/pdfs/2.pdf"
 previewImage: "/images/projects/2.png"
+goal: "Design a smart street light system that combines environmental sensing, traffic monitoring, lighting control, and data visualisation."
+contribution: "As project leader, I planned the system functions, coordinated sensing scenarios, and prepared technical presentation materials."
+outcome: "The project demonstrated how IoT perception networks can turn street lights into smart urban nodes for monitoring and city management."
 description: >-
   **Goal:** Design a multi-functional smart street light system that integrates environmental sensing, traffic monitoring, lighting control, and data visualisation for smart-city scenarios.
 

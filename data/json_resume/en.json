@@ -17,11 +17,6 @@
         "url": "https://github.com/mochizhang98987/mochizhang98987.github.io"
       },
       {
-        "network": "GitHub",
-        "username": "mochizhang98987",
-        "url": "https://github.com/mochizhang98987/mochizhang98987.github.io"
-      },
-      {
         "network": "X",
         "url": "https://x.com/momozha41134699"
       },
@@ -29,11 +24,8 @@
         "network": "fandom",
         "url": "https://community.fandom.com/wiki/User:Momo98987"
       }
-     
     ]
   },
-  
- 
   "work": [
     {
       "name": "Tianjin Aiying Technology Co., Ltd. (IBM-ETP Training Base)",
@@ -174,27 +166,59 @@
     {
       "name": "Programming Languages",
       "level": "Advanced",
-      "keywords": ["Java", "C/C++", "Python", "R"]
+      "keywords": [
+        "Java",
+        "C/C++",
+        "Python",
+        "R"
+      ]
     },
     {
       "name": "Back-end Development",
       "level": "Advanced",
-      "keywords": ["SpringBoot", "MyBatis", "MyBatis-Plus", "Maven", "Redis", "MySQL"]
+      "keywords": [
+        "SpringBoot",
+        "MyBatis",
+        "MyBatis-Plus",
+        "Maven",
+        "Redis",
+        "MySQL"
+      ]
     },
     {
       "name": "Front-end Development",
       "level": "Intermediate",
-      "keywords": ["HTML5", "CSS", "JavaScript", "Vue.js", "Apache Ajax"]
+      "keywords": [
+        "HTML5",
+        "CSS",
+        "JavaScript",
+        "Vue.js",
+        "Apache Ajax"
+      ]
     },
     {
       "name": "Testing & Tools",
       "level": "Intermediate",
-      "keywords": ["JMeter", "Git", "NATAPP", "OSS", "Sa-token"]
+      "keywords": [
+        "JMeter",
+        "Git",
+        "NATAPP",
+        "OSS",
+        "Sa-token"
+      ]
     },
     {
       "name": "Design & Algorithms",
       "level": "Intermediate",
-      "keywords": ["Adobe Photoshop", "Premiere", "After Effects", "Greedy Algorithm", "Branch-and-Bound Method", "YOLOv8", "GAN"]
+      "keywords": [
+        "Adobe Photoshop",
+        "Premiere",
+        "After Effects",
+        "Greedy Algorithm",
+        "Branch-and-Bound Method",
+        "YOLOv8",
+        "GAN"
+      ]
     }
   ],
   "languages": [
@@ -223,10 +247,21 @@
         "Supported team in building 3D body models with 3Ds Max and completing clothing modeling & simulation with APEX Clothing",
         "Assisted in handling high concurrency requirements of the virtual fitting system and conducting complex calculations"
       ],
-      "keywords": ["Virtual Fitting", "GAN", "3D Modeling", "VR", "AR", "Computer Vision", "Intangible Cultural Heritage"],
+      "keywords": [
+        "Virtual Fitting",
+        "GAN",
+        "3D Modeling",
+        "VR",
+        "AR",
+        "Computer Vision",
+        "Intangible Cultural Heritage"
+      ],
       "startDate": "2024-04-01",
       "endDate": "2025-05-31",
-      "roles": ["Core Developer", "Algorithm Researcher"],
+      "roles": [
+        "Core Developer",
+        "Algorithm Researcher"
+      ],
       "entity": "Tiangong University",
       "type": "Academic Research"
     },
@@ -241,10 +276,21 @@
         "Used sensors and cameras for real-time collection of environmental and traffic data (e.g., traffic conditions, pollutant concentrations)",
         "Assisted in hardware acceleration platform construction, multi-sensor data integration, smart city data visualization, energy-saving dimming and cloud-5G-IoT integration"
       ],
-      "keywords": ["IoT", "Intelligent Street Light", "YOLOv8", "Data Visualization", "GPS", "5G", "Deep Learning"],
+      "keywords": [
+        "IoT",
+        "Intelligent Street Light",
+        "YOLOv8",
+        "Data Visualization",
+        "GPS",
+        "5G",
+        "Deep Learning"
+      ],
       "startDate": "2022-06-01",
       "endDate": "2022-07-31",
-      "roles": ["Developer", "Data Collector"],
+      "roles": [
+        "Developer",
+        "Data Collector"
+      ],
       "entity": "Tiangong University",
       "type": "Academic Project"
     }
@@ -255,4 +301,3 @@
     "lastModified": "2024-10-01"
   }
 }
-

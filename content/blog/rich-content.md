@@ -7,6 +7,9 @@ portfolioGroup: "competitions"
 weight: 2
 pdfLink: "/pdfs/3.pdf"
 previewImage: "/images/projects/3.png"
+goal: "Build a digital twin-based system for rolling bearing condition monitoring and earlier fault diagnosis."
+contribution: "As project leader, I organised the system design, divided team tasks, and integrated the fault-diagnosis workflow and project presentation."
+outcome: "The system connected monitoring data, digital-twin modelling, and deep-learning analysis into a practical predictive-maintenance workflow."
 description: >-
   **Goal:** Build a digital twin-driven system for rolling bearing condition monitoring, enabling earlier fault identification and more efficient predictive maintenance.
 

@@ -1,0 +1,8 @@
+<article class="post portfolio-category-card">
+  <div class="post-header">
+    <h2>{{ .Title }}</h2>
+  </div>
+  {{ with .Intro }}
+    <div class="post-content portfolio-category-card__intro">{{ . }}</div>
+  {{ end }}
+</article>
