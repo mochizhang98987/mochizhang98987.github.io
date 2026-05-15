@@ -1,6 +1,8 @@
 ---
 title: "ILight Holographic Perception Smart Transportation Project"
 hideMeta: true
+pdfLink: "/pdfs/2.pdf"
+previewImage: "/images/projects/2.jpg"
 description: "A smart transportation project integrating sensing, target detection, traffic-flow analysis, and visualisation to support urban traffic management."
 comments: false
 socialShare: false

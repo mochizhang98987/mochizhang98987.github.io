@@ -1,6 +1,8 @@
 ---
 title: "Backend & Data Practice: Solidifying the Technical Foundation"
 date: "2023-12-01"
+pdfLink: "/pdfs/5.pdf"
+previewImage: "/images/projects/5.jpg"
 description: "Technical practice in Java back-end development, database operations, interface testing, and Python-based data processing."
 comments: false
 socialShare: false

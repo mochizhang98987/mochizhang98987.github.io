@@ -1,22 +1,21 @@
 {{ $hiddenDemoTitles := slice "Math Typesetting" "Emoji Support" }}
-{{ $plainTitlePages := slice
-  "ILight Holographic Perception Smart Transportation Project"
-  "Digital Twin-Driven Rolling Bearing Condition Monitoring and Fault Diagnosis System"
-  "Multi-Functional Smart Street Light Project Based on IoT Perception Network"
-  "Backend & Data Practice: Solidifying the Technical Foundation"
-}}
 
 {{ range $pageIndex, $page := .Pages }}
   {{ if not (in $hiddenDemoTitles .Title) }}
+    {{ $targetLink := .RelPermalink }}
+    {{ with .Params.pdfLink }}
+      {{ $targetLink = . }}
+    {{ end }}
     <article class="post">
       <div class="post-header">
         <h2>
-          {{ if in $plainTitlePages .Title }}
-            <span>{{ .Title | markdownify }}</span>
-          {{ else }}
-            <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-          {{ end }}
+          <a href="{{ $targetLink | relURL }}" target="_blank" rel="noopener">{{ .Title | markdownify }}</a>
         </h2>
+        {{ with .Params.previewImage }}
+          <a class="project-preview-link" href="{{ $targetLink | relURL }}" target="_blank" rel="noopener" aria-label="Open {{ $page.Title }} PDF">
+            <img class="project-preview-image" src="{{ . | relURL }}" alt="{{ $page.Title }} preview image">
+          </a>
+        {{ end }}
         {{ partial "post-meta.html" (dict "page" . "pageIndex" $pageIndex) }}
       </div>
 

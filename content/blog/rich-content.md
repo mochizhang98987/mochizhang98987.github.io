@@ -2,6 +2,8 @@
 author : "Team from TGU in China"
 title : "Digital Twin-Driven Rolling Bearing Condition Monitoring and Fault Diagnosis System"
 date : "2023-04-07"
+pdfLink: "/pdfs/3.pdf"
+previewImage: "/images/projects/3.jpg"
 description : "A digital twin-driven fault diagnosis system for rolling bearing condition monitoring, integrating virtual-real interaction, deep learning, and intelligent maintenance analysis."
 comments: false
 socialShare: false
