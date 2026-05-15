@@ -1,14 +1,30 @@
 ---
 title: "Backend & Data Practice: Solidifying the Technical Foundation"
 date: "2023-12-01"
+hideMeta: true
+portfolioGroup: "projects"
+weight: 1
 pdfLink: "/pdfs/1.pdf"
 previewImage: "/images/projects/1.png"
-description: "Technical practice in Java back-end development, database operations, interface testing, and Python-based data processing."
+description: >-
+  **Goal:** Strengthen practical software-engineering ability through Java back-end development, database operations, interface testing, and Python-based data processing.
+
+  **My Contribution:** As project lead, I planned the technical practice route, implemented back-end service logic, tested interfaces, managed database operations, and used Python for data cleaning and visualisation.
+
+  **Outcome:** This practice improved my ability to connect back-end engineering with data-oriented workflows, forming a stronger foundation for future robotics and intelligent-system projects.
 comments: false
 socialShare: false
 toc: false
 ---
 
-In backend development, I focused on building services with Java and SpringBoot. I practised database operations, interface development, system testing, and basic performance optimisation.
+## Goal
 
-I also used Python for data processing and visualisation, including public data collection, data cleaning with Pandas, and chart generation with Matplotlib. These experiences helped me strengthen my technical foundation across backend engineering and data-oriented development.
+Strengthen practical software-engineering ability through Java back-end development, database operations, interface testing, and Python-based data processing.
+
+## My Contribution
+
+As project lead, I planned the technical practice route, implemented back-end service logic, tested interfaces, managed database operations, and used Python for data cleaning and visualisation.
+
+## Outcome
+
+This practice improved my ability to connect back-end engineering with data-oriented workflows, forming a stronger foundation for future robotics and intelligent-system projects.

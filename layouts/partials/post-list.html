@@ -3,25 +3,27 @@
 {{ range $pageIndex, $page := .Pages }}
   {{ if not (in $hiddenDemoTitles .Title) }}
     {{ $targetLink := .RelPermalink }}
+    {{ $openInNewTab := false }}
     {{ with .Params.pdfLink }}
       {{ $targetLink = . }}
+      {{ $openInNewTab = true }}
     {{ end }}
-    <article class="post">
+    <article class="post portfolio-card">
       <div class="post-header">
         <h2>
-          <a href="{{ $targetLink | relURL }}" target="_blank" rel="noopener">{{ .Title | markdownify }}</a>
+          <a href="{{ $targetLink | relURL }}"{{ if $openInNewTab }} target="_blank" rel="noopener"{{ end }}>{{ .Title | markdownify }}</a>
         </h2>
         {{ with .Params.previewImage }}
-          <div class="project-preview-block">
-            <img class="project-preview-image" src="{{ . | relURL }}" alt="{{ $page.Title }} preview image">
-          </div>
+          <img class="project-preview-image" src="{{ . | relURL }}" alt="{{ $page.Title }} preview image">
         {{ end }}
-        {{ partial "post-meta.html" (dict "page" . "pageIndex" $pageIndex) }}
+        {{ if not .Params.hideMeta }}
+          {{ partial "post-meta.html" (dict "page" . "pageIndex" $pageIndex) }}
+        {{ end }}
       </div>
 
       <div class="post-content">
         {{ with .Description }}
-          {{ . }}
+          {{ . | markdownify }}
         {{ else }}
           {{ .Summary }}
         {{ end }}
@@ -29,5 +31,3 @@
     </article>
   {{ end }}
 {{ end }}
-
-{{ partial "pagination.html" . }}

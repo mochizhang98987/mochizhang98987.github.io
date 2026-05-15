@@ -1,14 +1,29 @@
 ---
-title : "ILight Holographic Perception Smart Transportation Project"
+title: "ILight Smart Transportation Project: Leadership and Implementation"
 hideMeta: true
+portfolioGroup: "projects"
+weight: 2
 pdfLink: "/pdfs/5.pdf"
 previewImage: "/images/projects/5.png"
-description : "During my participation in the ILight Holographic Perception Smart Transportation Project, I was deeply involved in the entire process from technology R&D to practical implementation. With the core goal of solving urban traffic pain points and building a new smart transportation ecosystem, the project integrates cutting-edge technologies to create a cloud-edge-end collaborative smart transportation solution."
+description: >-
+  **Goal:** Explore how an intelligent transportation project can move from technical research to practical implementation, with a focus on solving real urban traffic-management problems.
+
+  **My Contribution:** As project lead, I was responsible for coordinating the full process, including technical research, project planning, visual demonstration, documentation, and communication between project members.
+
+  **Outcome:** The work strengthened my experience in leading a technical project from concept to demonstration and showed how perception, data analysis, and system integration can be applied to real smart-transportation scenarios.
 comments: false
 socialShare: false
 toc: false
 ---
 
-During my participation in the ILight Holographic Perception Smart Transportation Project, I was deeply involved in the full process from technology research and development to practical implementation. The project focused on solving urban traffic pain points and building a new smart transportation ecosystem through a cloud-edge-end collaborative solution.
+## Goal
 
-Key work included traffic-flow perception, target detection, road-condition data collection, and visualisation for smart transportation scenarios.
+Explore how an intelligent transportation project can move from technical research to practical implementation, with a focus on solving real urban traffic-management problems.
+
+## My Contribution
+
+As project lead, I was responsible for coordinating the full process, including technical research, project planning, visual demonstration, documentation, and communication between project members.
+
+## Outcome
+
+The work strengthened my experience in leading a technical project from concept to demonstration and showed how perception, data analysis, and system integration can be applied to real smart-transportation scenarios.

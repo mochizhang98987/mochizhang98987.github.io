@@ -5,6 +5,9 @@ draft: false
 comments: false
 socialShare: false
 toc: false
+hideMeta: true
+portfolioGroup: "videos"
+weight: 1
 ---
 
 [IFR-Medical Robots and SDG Bridging Global Surgical Care Gaps](https://www.youtube.com/watch?v=-O-3RNo95Fo&t=1s)

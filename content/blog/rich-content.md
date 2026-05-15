@@ -1,15 +1,31 @@
 ---
-author : "Team from TGU in China"
-title : "Digital Twin-Driven Rolling Bearing Condition Monitoring and Fault Diagnosis System"
-date : "2023-04-07"
+author: "Team from TGU in China"
+title: "Digital Twin-Driven Rolling Bearing Condition Monitoring and Fault Diagnosis System"
+date: "2023-04-07"
+hideMeta: true
+portfolioGroup: "competitions"
+weight: 2
 pdfLink: "/pdfs/3.pdf"
 previewImage: "/images/projects/3.png"
-description : "A digital twin-driven fault diagnosis system for rolling bearing condition monitoring, integrating virtual-real interaction, deep learning, and intelligent maintenance analysis."
+description: >-
+  **Goal:** Build a digital twin-driven system for rolling bearing condition monitoring, enabling earlier fault identification and more efficient predictive maintenance.
+
+  **My Contribution:** As project lead, I organised the system design, divided technical tasks, contributed to the fault-diagnosis workflow, and integrated the project narrative around virtual-real interaction and intelligent maintenance.
+
+  **Outcome:** The final system connected condition-monitoring data, digital-twin modelling, and deep-learning analysis to demonstrate a practical fault-diagnosis pipeline for rotating machinery.
 comments: false
 socialShare: false
 toc: false
 ---
 
-During my participation in the Digital Twin-Driven Rolling Bearing Condition Monitoring and Fault Diagnosis System project, I was involved in technical solution design, system implementation, and testing.
+## Goal
 
-The project focused on rolling bearing operation and maintenance. By combining digital twin technology and deep learning methods, it aimed to improve fault identification accuracy and reduce the inefficiency of traditional scheduled maintenance.
+Build a digital twin-driven system for rolling bearing condition monitoring, enabling earlier fault identification and more efficient predictive maintenance.
+
+## My Contribution
+
+As project lead, I organised the system design, divided technical tasks, contributed to the fault-diagnosis workflow, and integrated the project narrative around virtual-real interaction and intelligent maintenance.
+
+## Outcome
+
+The final system connected condition-monitoring data, digital-twin modelling, and deep-learning analysis to demonstrate a practical fault-diagnosis pipeline for rotating machinery.

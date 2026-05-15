@@ -1,14 +1,29 @@
 ---
 title: "ILight Holographic Perception Smart Transportation Project"
 hideMeta: true
+portfolioGroup: "competitions"
+weight: 1
 pdfLink: "/pdfs/4.pdf"
 previewImage: "/images/projects/4.png"
-description: "A smart transportation project integrating sensing, target detection, traffic-flow analysis, and visualisation to support urban traffic management."
+description: >-
+  **Goal:** Develop a smart transportation solution that uses multi-source sensing, target detection, traffic-flow analysis, and visualisation to improve urban traffic monitoring and management.
+
+  **My Contribution:** As project lead, I coordinated the overall project direction, organised technical planning, contributed to the perception and visualisation workflow, and prepared project materials for demonstration and evaluation.
+
+  **Outcome:** The project produced a cloud-edge-end collaborative prototype that demonstrated how intelligent perception can support traffic monitoring, emergency response, and smart-city decision-making.
 comments: false
 socialShare: false
 toc: false
 ---
 
-During my participation in the ILight Holographic Perception Smart Transportation Project, I contributed to the design and implementation of an intelligent transportation solution based on multi-source perception and data visualisation.
+## Goal
 
-The project aimed to improve urban traffic monitoring, emergency response, and road-condition analysis by combining sensing devices, computer vision algorithms, and a visual management platform.
+Develop a smart transportation solution that uses multi-source sensing, target detection, traffic-flow analysis, and visualisation to improve urban traffic monitoring and management.
+
+## My Contribution
+
+As project lead, I coordinated the overall project direction, organised technical planning, contributed to the perception and visualisation workflow, and prepared project materials for demonstration and evaluation.
+
+## Outcome
+
+The project produced a cloud-edge-end collaborative prototype that demonstrated how intelligent perception can support traffic monitoring, emergency response, and smart-city decision-making.
