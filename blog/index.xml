@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on Mochi Zhang</title><link>https://mochizhang98987.github.io/blog/</link><description>Recent content in Blogs on Mochi Zhang</description><generator>Hugo</generator><language>en</language><copyright>Copyright © Mochi Zhang</copyright><lastBuildDate>Fri, 24 Oct 2025 01:16:18 +0200</lastBuildDate><atom:link href="https://mochizhang98987.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Videos</title><link>https://mochizhang98987.github.io/blog/embed-video-files/</link><pubDate>Fri, 24 Oct 2025 01:16:18 +0200</pubDate><guid>https://mochizhang98987.github.io/blog/embed-video-files/</guid><description>&lt;p>&lt;a
+ href="https://www.youtube.com/watch?v=-O-3RNo95Fo&amp;amp;t=1s"
+ 
+ 
+ class="link--external" target="_blank" rel="noreferrer"
+ 
+>IFR-Medical Robots and SDG Bridging Global Surgical Care Gaps&lt;/a>&lt;/p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ &lt;video
+ autoplay
+ 
+ 
+ loop
+ 
+ poster="/blog/embed-video-files/my-video.jpg"
+ 
+ 
+ playsinline
+ >&lt;source src="https://mochizhang98987.github.io/blog/embed-video-files/my-video.mp4" type="video/mp4" />&lt;source src="https://mochizhang98987.github.io/blog/embed-video-files/my-video.webm" type="video/webm" />&lt;/video>
+
+
+
+
+
+
+&lt;p>&lt;a
+ href="https://youtu.be/XLcUK_zythQ"
+ 
+ 
+ class="link--external" target="_blank" rel="noreferrer"
+ 
+>Defining the Trust Region of the RPLIDAR A2M12&lt;/a>&lt;/p>
+&lt;p>&lt;a
+ href="https://youtu.be/XLcUK_zythQ"
+ 
+ 
+ class="link--external" target="_blank" rel="noreferrer"
+ 
+>
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ &lt;picture>
+ &lt;source
+ type="image/webp"
+ srcset="https://mochizhang98987.github.io/blog/embed-video-files/rplidar-trust-region-thumbnail_hu_550fecdf9cf78ad6.webp 300w,/blog/embed-video-files/rplidar-trust-region-thumbnail_hu_7b094f714192ddbf.webp 500w,/blog/embed-video-files/rplidar-trust-region-thumbnail_hu_92cd12d60bb32526.webp 700w"
+ sizes="(max-width: 499px) 300px,(max-width: 699px) 500px,700px"
+ />
+ &lt;img
+ src="https://mochizhang98987.github.io/blog/embed-video-files/rplidar-trust-region-thumbnail.png"
+ srcset="https://mochizhang98987.github.io/blog/embed-video-files/rplidar-trust-region-thumbnail_hu_7779a1502d3d57cf.png 300w,/blog/embed-video-files/rplidar-trust-region-thumbnail_hu_67560f714e2f343c.png 500w,/blog/embed-video-files/rplidar-trust-region-thumbnail_hu_8cb2da3c175e4612.png 700w"
+ sizes="(max-width: 499px) 300px,(max-width: 699px) 500px,700px"
+ alt="Defining the Trust Region of the RPLIDAR A2M12 thumbnail"
+ 
+ loading="lazy"
+ width="2514"
+ height="1254"
+ />
+ &lt;/picture>
+ 
+
+
+
+
+
+
+&lt;/a>&lt;/p></description></item><item><title>Backend &amp; Data Practice: Solidifying the Technical Foundation</title><link>https://mochizhang98987.github.io/blog/prism-code-highlighting-showcase/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate><guid>https://mochizhang98987.github.io/blog/prism-code-highlighting-showcase/</guid><description>&lt;h2 id="goal">Goal&lt;a href="#goal" class="post-heading__anchor" aria-hidden="true">#&lt;/a>
+&lt;/h2>
+&lt;p>Strengthen practical software-engineering ability through Java back-end development, database operations, interface testing, and Python-based data processing.&lt;/p>
+&lt;h2 id="my-contribution">My Contribution&lt;a href="#my-contribution" class="post-heading__anchor" aria-hidden="true">#&lt;/a>
+&lt;/h2>
+&lt;p>As project lead, I planned the technical practice route, implemented back-end service logic, tested interfaces, managed database operations, and used Python for data cleaning and visualisation.&lt;/p>
+&lt;h2 id="outcome">Outcome&lt;a href="#outcome" class="post-heading__anchor" aria-hidden="true">#&lt;/a>
+&lt;/h2>
+&lt;p>This practice improved my ability to connect back-end engineering with data-oriented workflows, forming a stronger foundation for future robotics and intelligent-system projects.&lt;/p></description></item><item><title>ILight Holographic Perception Smart Transportation Project</title><link>https://mochizhang98987.github.io/blog/image-optimization/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mochizhang98987.github.io/blog/image-optimization/</guid><description>&lt;h2 id="goal">Goal&lt;a href="#goal" class="post-heading__anchor" aria-hidden="true">#&lt;/a>
+&lt;/h2>
+&lt;p>Develop a smart transportation solution that uses multi-source sensing, target detection, traffic-flow analysis, and visualisation to improve urban traffic monitoring and management.&lt;/p>
+&lt;h2 id="my-contribution">My Contribution&lt;a href="#my-contribution" class="post-heading__anchor" aria-hidden="true">#&lt;/a>
+&lt;/h2>
+&lt;p>As project lead, I coordinated the overall project direction, organised technical planning, contributed to the perception and visualisation workflow, and prepared project materials for demonstration and evaluation.&lt;/p>
+&lt;h2 id="outcome">Outcome&lt;a href="#outcome" class="post-heading__anchor" aria-hidden="true">#&lt;/a>
+&lt;/h2>
+&lt;p>The project produced a cloud-edge-end collaborative prototype that demonstrated how intelligent perception can support traffic monitoring, emergency response, and smart-city decision-making.&lt;/p></description></item><item><title>Digital Twin-Driven Rolling Bearing Condition Monitoring and Fault Diagnosis System</title><link>https://mochizhang98987.github.io/blog/rich-content/</link><pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate><guid>https://mochizhang98987.github.io/blog/rich-content/</guid><description>&lt;h2 id="goal">Goal&lt;a href="#goal" class="post-heading__anchor" aria-hidden="true">#&lt;/a>
+&lt;/h2>
+&lt;p>Build a digital twin-driven system for rolling bearing condition monitoring, enabling earlier fault identification and more efficient predictive maintenance.&lt;/p>
+&lt;h2 id="my-contribution">My Contribution&lt;a href="#my-contribution" class="post-heading__anchor" aria-hidden="true">#&lt;/a>
+&lt;/h2>
+&lt;p>As project lead, I organised the system design, divided technical tasks, contributed to the fault-diagnosis workflow, and integrated the project narrative around virtual-real interaction and intelligent maintenance.&lt;/p>
+&lt;h2 id="outcome">Outcome&lt;a href="#outcome" class="post-heading__anchor" aria-hidden="true">#&lt;/a>
+&lt;/h2>
+&lt;p>The final system connected condition-monitoring data, digital-twin modelling, and deep-learning analysis to demonstrate a practical fault-diagnosis pipeline for rotating machinery.&lt;/p></description></item><item><title>ILight Smart Transportation Project: Leadership and Implementation</title><link>https://mochizhang98987.github.io/blog/markdown-syntax/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mochizhang98987.github.io/blog/markdown-syntax/</guid><description>&lt;h2 id="goal">Goal&lt;a href="#goal" class="post-heading__anchor" aria-hidden="true">#&lt;/a>
+&lt;/h2>
+&lt;p>Explore how an intelligent transportation project can move from technical research to practical implementation, with a focus on solving real urban traffic-management problems.&lt;/p>
+&lt;h2 id="my-contribution">My Contribution&lt;a href="#my-contribution" class="post-heading__anchor" aria-hidden="true">#&lt;/a>
+&lt;/h2>
+&lt;p>As project lead, I was responsible for coordinating the full process, including technical research, project planning, visual demonstration, documentation, and communication between project members.&lt;/p>
+&lt;h2 id="outcome">Outcome&lt;a href="#outcome" class="post-heading__anchor" aria-hidden="true">#&lt;/a>
+&lt;/h2>
+&lt;p>The work strengthened my experience in leading a technical project from concept to demonstration and showed how perception, data analysis, and system integration can be applied to real smart-transportation scenarios.&lt;/p></description></item><item><title>Multi-Functional Smart Street Light Project Based on IoT Perception Network</title><link>https://mochizhang98987.github.io/blog/placeholder-text/</link><pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate><guid>https://mochizhang98987.github.io/blog/placeholder-text/</guid><description>&lt;h2 id="goal">Goal&lt;a href="#goal" class="post-heading__anchor" aria-hidden="true">#&lt;/a>
+&lt;/h2>
+&lt;p>Design a multi-functional smart street light system that integrates environmental sensing, traffic monitoring, lighting control, and data visualisation for smart-city scenarios.&lt;/p>
+&lt;h2 id="my-contribution">My Contribution&lt;a href="#my-contribution" class="post-heading__anchor" aria-hidden="true">#&lt;/a>
+&lt;/h2>
+&lt;p>As project lead, I managed the project structure, coordinated functional design, organised sensing and application scenarios, and prepared the technical presentation materials.&lt;/p>
+&lt;h2 id="outcome">Outcome&lt;a href="#outcome" class="post-heading__anchor" aria-hidden="true">#&lt;/a>
+&lt;/h2>
+&lt;p>The project demonstrated how IoT perception networks can transform traditional street lights into intelligent urban nodes for monitoring, data collection, and city management.&lt;/p></description></item></channel></rss>
