@@ -1,5 +1,5 @@
 ---
-author: "ZHIHUI SHULIAN"
+author: ""
 title: "Multi-Functional Smart Street Light Project Based on IoT Perception Network"
 date: "2023-06-09"
 hideMeta: true

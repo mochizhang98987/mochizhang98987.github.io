@@ -10,10 +10,4 @@ portfolioGroup: "videos"
 weight: 1
 ---
 
-[IFR-Medical Robots and SDG Bridging Global Surgical Care Gaps](https://www.youtube.com/watch?v=-O-3RNo95Fo&t=1s)
-
 {{< video src="my-video" autoplay="true" controls="false" loop="true" >}}
-
-[Defining the Trust Region of the RPLIDAR A2M12](https://youtu.be/XLcUK_zythQ)
-
-[![Defining the Trust Region of the RPLIDAR A2M12 thumbnail](rplidar-trust-region-thumbnail.png)](https://youtu.be/XLcUK_zythQ)

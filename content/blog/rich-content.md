@@ -1,5 +1,5 @@
 ---
-author: "Team from TGU in China"
+author: ""
 title: "Digital Twin-Driven Rolling Bearing Condition Monitoring and Fault Diagnosis System"
 date: "2023-04-07"
 hideMeta: true

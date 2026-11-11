@@ -1,12 +1,4 @@
 {
-  "author": {
-    "email": "3743342+schnerring@users.noreply.github.com",
-    "name": "Michael Schnerring",
-    "url": "https://schnerring.net"
-  },
-  "bugs": {
-    "url": "https://github.com/schnerring/hugo-theme-gruvbox/issues"
-  },
   "comments": {
     "dependencies": {
       "@tabler/icons": "project",
@@ -72,7 +64,6 @@
     "stylelint": "^16.24.0",
     "stylelint-prettier": "^5.0.3"
   },
-  "homepage": "https://github.com/schnerring/hugo-theme-gruvbox#readme",
   "keywords": [
     "hugo",
     "gruvbox",
@@ -86,10 +77,6 @@
   },
   "main": "index.js",
   "name": "hugo-theme-gruvbox",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/schnerring/hugo-theme-gruvbox.git"
-  },
   "scripts": {
     "prepare": "husky"
   },
