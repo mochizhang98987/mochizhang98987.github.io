@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mochizhang98987.github.io/sitemap.xml
